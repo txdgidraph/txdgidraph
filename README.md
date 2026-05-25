@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&text=Hey,%20I'm%20Tonny!&height=120&section=header&fontColor=ffffff&fontSize=40&fontAlignY=65&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&text=Hey,%20I'm%20Tonny Gidraph!&height=120&section=header&fontColor=ffffff&fontSize=40&fontAlignY=65&animation=fadeIn"/>
 </p>
 
 <h1 align="center">
@@ -49,7 +49,7 @@ fields_of_interest:
 
 currently_learning: ["GraphQL", "Advanced Pentesting", "Cloud Security"]
 
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Technical Writing"]
+hobbies: ["Gaming", "Cinema", "SportBikes-(200KM/h😋)", "Technical Writing"]
 ```
 
 ---
@@ -110,12 +110,13 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Technical Writing"]
 <h2>📊 &nbsp;GitHub Stats</h2>
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=txdgidraph&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=txdgidraph&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=txdgidraph&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 </p>
 
----
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=txdgidraph&theme=tokyonight" alt="txdgidraph streak"/>
+</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=txdgidraph&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
 </p>
